@@ -1,4 +1,4 @@
 this is a normal copy of git exercise
 
-this another change in this file but it was another branch
+this is a new edit in this file
 
